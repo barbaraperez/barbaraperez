@@ -2,7 +2,7 @@
 
 - 👩🏽‍🔬 Sou aluna da Ilum escola de ciência, faculdade do Centro Nacional de Pesquisa em Energia e Materiais, o CNPEM e atualmente estou no 3° semestre do curso.
 - 👩🏽‍💻 Aqui irei compartilhar um pouco do que aprendo em algumas das minhas aulas como machine learning, ciência de dados, algoritmos genéticos, redes neurais e termodinâmica.
-- 📫 Para entrar em contato comigo: barbara220040@ilum.cnpem.br ou barbaraperezrodrigues@gmail.com
+- 📫 Para entrar em contato comigo: barbara220040@ilum.cnpem.br 
 - 😄 Pronomes: Ela/dela
 
 <div align="center">
