@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Barbara Perez 👋🏽
 
-- 👩🏽‍🔬 Sou aluna da Ilum escola de ciência, faculdade do Centro Nacional de Pesquisa em Energia e Materiais, o CNPEM e atualmente estou no 6° semestre do curso.
-- 👩🏽‍💻 Aqui irei compartilhar um pouco do que aprendo em algumas das minhas aulas como machine learning, ciência de dados, algoritmos genéticos, redes neurais, termodinâmica, Cinética Química, no meu trabalho de conclusão de curso e na minha Iniciação Científica em Bioinformática.
+- 👩🏽‍🔬 Sou bacharel em ciência e tecnologia pela Ilum escola de ciência, faculdade vínculada ao Centro Nacional de Pesquisa em Energia e Materiais, o CNPEM e atualmente estou desenvolvendo projetos no centro de biologia molecular e engenharia genética da UNICAMP.
+- 👩🏽‍💻 Aqui compartilho um pouco do que aprendi durante algumas das minhas disciplinas da graduação como machine learning, ciência de dados, algoritmos genéticos, redes neurais, termodinâmica, Cinética Química e análise e tratamento de imagens no meu trabalho de conclusão de curso e na minha Iniciação Científica em Bioinformática. Bem como também irei compartilhar os próximos trabalhos que eu for desenvolvendo durante os anos.
 - 📫 Para entrar em contato comigo: barbaraperezrodrigues@gmail.com
 
 <div align="center">
